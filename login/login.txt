@@ -1,1 +1,1 @@
-Termine la logica del login
+Termine la logica del login.
